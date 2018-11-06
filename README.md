@@ -1,4 +1,4 @@
-# Forty - Jekyll Theme
+# Voice Of Truth Church
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
