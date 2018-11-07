@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'The church home you've been looking for
+landing-title: 'The church home you have been looking for'
 description: null
 image: null
 author: null
