@@ -11,7 +11,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Service Times</h1>
+			<p>Worship Service Sundays 11 AM</p>
+			<p>Prayer Meeting Tuesdays 5 PM</p>
+			<p>Small Groups Thursdays 5 PM</p>
 		</header>
 
 <!-- Content -->
